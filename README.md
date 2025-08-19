@@ -1,6 +1,6 @@
 # Capstone Project: e-Types Brand Identity Strategy
 
-![Alt Text](https://drive.google.com/file/d/1LvTZekiX97Fa9GS7ZaqtgETDXmpt6CyZ/view)
+[![Screenshot-2025-08-20-at-2-51-51-AM.png](https://i.postimg.cc/W1syz7nd/Screenshot-2025-08-20-at-2-51-51-AM.png)](https://postimg.cc/SJtdtCH4)
 ## Project Overview
 This capstone project analyzes **e-Types**, a Copenhagen-based branding agency known for its edgy, bold, and minimalist identity.  
 The focus is on evaluating e-Types’ **branding philosophy, visual communication, and strategy execution** through the lens of a real-world business case.
